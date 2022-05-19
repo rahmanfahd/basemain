@@ -4,6 +4,5 @@ numpy==1.18.5
 numpydoc==1.1.0 
 opencv-python==4.5.1.48 
 openpyxl==3.0.4   
-openssl==1.1.1h
 packaging==20.4 
 
