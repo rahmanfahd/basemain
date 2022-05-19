@@ -1,7 +1,6 @@
 pandas==1.0.5
 pandas-ml==0.6.1
 numpy==1.18.5
-numpy-base==1.18.5
 numpydoc==1.1.0 
 olefile==0.46
 opencv-python==4.5.1.48 
